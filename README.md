@@ -60,3 +60,5 @@ Supervisor: M. A. Gómez Maureira, Eggink Wouter.
 
 ## License
 Open-source for educational use. Contact author for commercial applications.
+
+For more details, refer to the full thesis: [Super VJ Pro](/Super_VJ_Pro_Final_Project.pdf) and [Super VJ Pro Research](/Super_VJ_Pro_Research_Topics.pdf) 
